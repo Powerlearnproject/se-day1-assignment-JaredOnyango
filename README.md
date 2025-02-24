@@ -16,13 +16,13 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Planning:It involves defining the software's purpose and scope.
-Requirement Analysis:It seeks to identify and record the precise requirements of the final users.
-Design: It involves the building the framework and software architectural.
-Coding: This is where the software engineers start converting the software design into tangible code.
-Testing: It  involves examining of the software for any bugs or glitches that might have slipped through during coding.
-Deployment: It involves rolling out the meticulously tested and fine-tuned software to its end-users.
-Maintainance: It helps in adapting to the software's changing needs. 
+**Planning:**It involves defining the software's purpose and scope.
+**Requirement Analysis:**It seeks to identify and record the precise requirements of the final users.
+**Design:** It involves the building the framework and software architectural.
+**Coding:** This is where the software engineers start converting the software design into tangible code.
+**Testing: **It  involves examining of the software for any bugs or glitches that might have slipped through during coding.
+**Deployment:** It involves rolling out the meticulously tested and fine-tuned software to its end-users.
+**Maintainance:** It helps in adapting to the software's changing needs. 
 
 
 
